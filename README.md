@@ -1,2 +1,2 @@
-# Analisis-exploratorio-Python-
-Explorar los datos sobre viajes en taxi para identificar los barrios y compañías con mayor actividad, evaluar la distribución de los viajes y analizar cómo las condiciones climáticas pueden influir en su duración.
+# Exploratory Data Analysis in Python
+Explore taxi trip data to identify the neighborhoods and taxi companies with the highest activity, evaluate the distribution of trip characteristics, and analyze how weather conditions may influence trip duration.
